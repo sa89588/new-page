@@ -1,0 +1,25 @@
+{
+  "name": "متجر جود العباس",
+  "short_name": "جود العباس",
+  "description": "ملابس أطفال بجودة عالية وتوصيل سريع",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2196F3",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/sa89588/clothing-search/refs/heads/main/kids-clothing-store.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/sa89588/clothing-search/refs/heads/main/kids-clothing-store.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["shopping", "kids"],
+  "lang": "ar",
+  "dir": "rtl"
+}
